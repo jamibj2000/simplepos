@@ -1,0 +1,33 @@
+/**
+ * Compras
+ *  - nombre del producto
+ *  - valor del producto
+ *  - cantidad del producto
+ *  - fecha
+ *  - imagen [default]
+ *
+ * Ventas
+ *  - nombre del producto
+ *  - valor del producto
+ *  - cantidad del producto
+ *  - fecha
+ *  - imagen [default]
+ *
+ * Inventario
+ *  - nombre del producto
+ *  - valor de compra
+ *  - valor de venta
+ *  - cantidad del producto en stock
+ *  - imagen [default]
+ *
+ * Facturas
+ *  - Lista de productos [nombres, cantidades, precios]
+ *  - nombre del cliente
+ *  - valor total
+ *  - fecha de factura
+ *
+ * Clientes
+ *  - nombre del cliente
+ *  - facturas
+ *  - fecha
+ */
